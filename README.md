@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm LuizSangeon</h1>
-<h3 align="center">I love to play Minecraf, GTA 5 and Valorant. If you wanna work with me you need to know that I'm addicted to automation and problem-solving.</h3>
+<h3 align="center">I love to play GTA 5 and Valorant. If you wanna work with me you need to know that I'm addicted to automation and problem-solving.</h3>
 
 - 📫 How to reach me **luizsangeon@gmail.com**.
 
